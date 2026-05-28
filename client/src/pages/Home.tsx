@@ -14,7 +14,8 @@ export default function Home() {
     {
       id: 1,
       title: "Unbridled Eve Landing Page",
-      description: "Modern WordPress landing page built with Elementor Pro, featuring responsive design and high-converting layout.",
+      description:
+        "Modern WordPress landing page built with Elementor Pro, featuring responsive design and high-converting layout.",
       image: "https://i.ibb.co/PZb93L0w/chrome-YZBky-Rkf-Sw.jpg",
       tags: ["WordPress", "Elementor Pro", "Responsive Design"],
       link: "https://www.behance.net/gallery/233468245/Unbridled-Eve-Landing-Page-WordPress-Elementor-Pro",
@@ -23,7 +24,8 @@ export default function Home() {
     {
       id: 2,
       title: "Churchill Mae Landing Page",
-      description: "E-commerce landing page with WooCommerce integration, optimized for product showcase and conversions.",
+      description:
+        "E-commerce landing page with WooCommerce integration, optimized for product showcase and conversions.",
       image: "https://i.ibb.co/cXkFd71P/chrome-db-Pb4ij5a9.png",
       tags: ["WordPress", "WooCommerce", "E-commerce"],
       link: "https://www.behance.net/gallery/233467861/Churchill-Mae-Landing-Page-WordPress-WooCommerce",
@@ -32,7 +34,8 @@ export default function Home() {
     {
       id: 3,
       title: "New Day Pharmaceuticals",
-      description: "Professional pharmaceutical website with Elementor Pro, featuring clean design and effective information architecture.",
+      description:
+        "Professional pharmaceutical website with Elementor Pro, featuring clean design and effective information architecture.",
       image: "https://i.ibb.co/TD7BDFsS/chrome-k-Pn2-DEfn-DS.png",
       tags: ["WordPress", "Elementor Pro", "Web Design"],
       link: "https://www.behance.net/gallery/233472897/New-Day-Pharmaceuticals-WordPress-Elementor-Pro",
@@ -41,11 +44,26 @@ export default function Home() {
   ];
 
   const skills = [
-    { category: "eCommerce", items: ["Nifty AI", "eBay", "Poshmark", "Depop", "WooCommerce"] },
-    { category: "Web Development", items: ["WordPress", "Elementor", "HTML", "CSS", "Responsive Design"] },
-    { category: "Automation", items: ["Python", "Web Scraping", "Data Processing", "Excel"] },
-    { category: "Design", items: ["Canva", "Figma", "Adobe Photoshop", "Illustrator"] },
-    { category: "Tools", items: ["ChatGPT", "DeepSeek", "Mailchimp", "Microsoft 365"] },
+    {
+      category: "eCommerce",
+      items: ["Nifty AI", "eBay", "Poshmark", "Depop", "WooCommerce"],
+    },
+    {
+      category: "Web Development",
+      items: ["WordPress", "Elementor", "HTML", "CSS", "Responsive Design"],
+    },
+    {
+      category: "Automation",
+      items: ["Python", "Web Scraping", "Data Processing", "Excel"],
+    },
+    {
+      category: "Design",
+      items: ["Canva", "Figma", "Adobe Photoshop", "Illustrator"],
+    },
+    {
+      category: "Tools",
+      items: ["ChatGPT", "DeepSeek", "Mailchimp", "Microsoft 365"],
+    },
   ];
 
   const experience = [
@@ -79,15 +97,26 @@ export default function Home() {
       {/* Navigation */}
       <nav className="sticky top-0 z-50 border-b border-border bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
         <div className="container flex items-center justify-between py-4">
-          <div className="text-2xl font-bold font-heading text-[#0F172A]">Franklin Ogot</div>
+          <div className="text-2xl font-bold font-heading text-[#0F172A]">
+            Franklin Ogot
+          </div>
           <div className="flex gap-6">
-            <a href="#projects" className="text-sm text-[#475569] hover:text-accent transition-colors font-medium">
+            <a
+              href="#projects"
+              className="text-sm text-[#475569] hover:text-accent transition-colors font-medium"
+            >
               Projects
             </a>
-            <a href="#about" className="text-sm text-[#475569] hover:text-accent transition-colors font-medium">
+            <a
+              href="#about"
+              className="text-sm text-[#475569] hover:text-accent transition-colors font-medium"
+            >
               About
             </a>
-            <a href="#contact" className="text-sm text-[#475569] hover:text-accent transition-colors font-medium">
+            <a
+              href="#contact"
+              className="text-sm text-[#475569] hover:text-accent transition-colors font-medium"
+            >
               Contact
             </a>
           </div>
@@ -115,11 +144,16 @@ export default function Home() {
               <h1 className="text-5xl md:text-6xl font-bold font-heading mb-4 text-[#0F172A]">
                 Franklin Ogot
               </h1>
-              <p className="text-xl text-[#2563EB] font-medium">Web Designer & IT Specialist</p>
+              <p className="text-xl text-[#2563EB] font-medium">
+                Web Designer & IT Specialist
+              </p>
             </div>
 
             <p className="text-lg text-[#475569] leading-relaxed">
-              eCommerce & Web Specialist with hands-on experience in WordPress, WooCommerce, and AI-powered product listing workflows. I streamline operations using automation tools and create high-converting web and digital assets.
+              eCommerce & Web Specialist with hands-on experience in WordPress,
+              WooCommerce, and AI-powered product listing workflows. I
+              streamline operations using automation tools and create
+              high-converting web and digital assets.
             </p>
 
             <div className="flex flex-wrap gap-3">
@@ -128,7 +162,10 @@ export default function Home() {
                   View My Work
                 </a>
               </Button>
-              <Button variant="outline" className="border-accent text-accent hover:bg-accent/10">
+              <Button
+                variant="outline"
+                className="border-accent text-accent hover:bg-accent/10"
+              >
                 <a href="#contact" className="flex items-center gap-2">
                   Get In Touch
                 </a>
@@ -168,7 +205,9 @@ export default function Home() {
       <section id="projects" className="bg-card text-[#0F172A] py-20 md:py-32">
         <div className="container">
           <div className="mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold font-heading mb-4 text-[#0F172A]">Featured Projects</h2>
+            <h2 className="text-4xl md:text-5xl font-bold font-heading mb-4 text-[#0F172A]">
+              Featured Projects
+            </h2>
             <p className="text-lg text-[#475569]">
               A selection of my recent web design and development work
             </p>
@@ -179,7 +218,9 @@ export default function Home() {
               <div
                 key={project.id}
                 className={`group grid md:grid-cols-2 gap-8 items-center ${
-                  index % 2 === 1 ? "md:grid-cols-2 md:[&>:first-child]:order-2" : ""
+                  index % 2 === 1
+                    ? "md:grid-cols-2 md:[&>:first-child]:order-2"
+                    : ""
                 }`}
               >
                 {/* Project Image */}
@@ -194,12 +235,16 @@ export default function Home() {
 
                 {/* Project Info */}
                 <div className="space-y-4">
-                  <h3 className="text-3xl font-bold font-heading text-[#0F172A]">{project.title}</h3>
-                  <p className="text-lg text-[#475569]">{project.description}</p>
+                  <h3 className="text-3xl font-bold font-heading text-[#0F172A]">
+                    {project.title}
+                  </h3>
+                  <p className="text-lg text-[#475569]">
+                    {project.description}
+                  </p>
 
                   {/* Tags */}
                   <div className="flex flex-wrap gap-2">
-                    {project.tags.map((tag) => (
+                    {project.tags.map(tag => (
                       <span
                         key={tag}
                         className="px-3 py-1 bg-[#2563EB]/10 text-[#2563EB] text-sm rounded-full font-medium"
@@ -232,18 +277,25 @@ export default function Home() {
       <section className="py-20 md:py-32 bg-background">
         <div className="container">
           <div className="mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold font-heading mb-4 text-[#0F172A]">Skills & Expertise</h2>
+            <h2 className="text-4xl md:text-5xl font-bold font-heading mb-4 text-[#0F172A]">
+              Skills & Expertise
+            </h2>
             <p className="text-lg text-[#475569]">
               A comprehensive set of tools and technologies I work with
             </p>
           </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {skills.map((skillGroup) => (
-              <div key={skillGroup.category} className="p-6 rounded-lg bg-card text-[#0F172A] border border-border hover:border-accent transition-colors">
-                <h3 className="text-xl font-bold font-heading mb-4 text-[#2563EB]">{skillGroup.category}</h3>
+            {skills.map(skillGroup => (
+              <div
+                key={skillGroup.category}
+                className="p-6 rounded-lg bg-card text-[#0F172A] border border-border hover:border-accent transition-colors"
+              >
+                <h3 className="text-xl font-bold font-heading mb-4 text-[#2563EB]">
+                  {skillGroup.category}
+                </h3>
                 <div className="flex flex-wrap gap-2">
-                  {skillGroup.items.map((skill) => (
+                  {skillGroup.items.map(skill => (
                     <span
                       key={skill}
                       className="px-3 py-1 bg-[#F8FAFC] text-[#0F172A] text-sm rounded-full border border-[#E2E8F0]"
@@ -262,7 +314,9 @@ export default function Home() {
       <section id="about" className="bg-card text-[#0F172A] py-20 md:py-32">
         <div className="container">
           <div className="mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold font-heading mb-4 text-[#0F172A]">Professional Experience</h2>
+            <h2 className="text-4xl md:text-5xl font-bold font-heading mb-4 text-[#0F172A]">
+              Professional Experience
+            </h2>
             <p className="text-lg text-[#475569]">
               My journey in web development and digital design
             </p>
@@ -272,7 +326,9 @@ export default function Home() {
             {experience.map((exp, index) => (
               <div key={index} className="border-l-4 border-accent pl-6 py-4">
                 <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-2">
-                  <h3 className="text-2xl font-bold font-heading text-[#0F172A]">{exp.role}</h3>
+                  <h3 className="text-2xl font-bold font-heading text-[#0F172A]">
+                    {exp.role}
+                  </h3>
                   <span className="text-sm text-[#475569]">{exp.period}</span>
                 </div>
                 <p className="text-[#2563EB] font-medium mb-4">{exp.company}</p>
@@ -293,20 +349,34 @@ export default function Home() {
       {/* Contact Section */}
       <section id="contact" className="py-20 md:py-32 bg-background">
         <div className="container max-w-2xl text-center">
-          <h2 className="text-4xl md:text-5xl font-bold font-heading mb-6 text-[#0F172A]">Let's Work Together</h2>
+          <h2 className="text-4xl md:text-5xl font-bold font-heading mb-6 text-[#0F172A]">
+            Let's Work Together
+          </h2>
           <p className="text-lg text-[#475569] mb-8">
-            I'm always interested in hearing about new projects and opportunities. Feel free to reach out!
+            I'm always interested in hearing about new projects and
+            opportunities. Feel free to reach out!
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button className="bg-accent hover:bg-blue-600 text-white text-lg px-8 py-6">
-              <a href="mailto:franklinogot11@gmail.com" className="flex items-center gap-2">
+              <a
+                href="mailto:franklinogot11@gmail.com"
+                className="flex items-center gap-2"
+              >
                 <Mail size={20} />
                 Send Email
               </a>
             </Button>
-            <Button variant="outline" className="border-accent text-accent hover:bg-accent/10 text-lg px-8 py-6">
-              <a href="https://www.behance.net/franklinogot" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+            <Button
+              variant="outline"
+              className="border-accent text-accent hover:bg-accent/10 text-lg px-8 py-6"
+            >
+              <a
+                href="https://www.behance.net/franklinogot"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2"
+              >
                 <ExternalLink size={20} />
                 View Behance
               </a>
@@ -322,13 +392,26 @@ export default function Home() {
             © 2026 Franklin Ogot. All rights reserved.
           </p>
           <div className="flex gap-6">
-            <a href="https://www.behance.net/franklinogot" target="_blank" rel="noopener noreferrer" className="text-sm text-[#475569] hover:text-accent transition-colors">
+            <a
+              href="https://www.behance.net/franklinogot"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-[#475569] hover:text-accent transition-colors"
+            >
               Behance
             </a>
-            <a href="https://www.linkedin.com/profile-thirdparty-redirect/AgEb6aRzYfpXqwAAAZjtQ1Ox-Tdxll3oF3t5c60MVfemADTePO91QxR86NhK3EZSV4yguFQp_jOvriC56TK5K4JxcQONjtljFMDLeAuzJ7bpnNkwvwzR91cdLOktmJ7G" target="_blank" rel="noopener noreferrer" className="text-sm text-[#475569] hover:text-accent transition-colors">
+            <a
+              href="https://www.linkedin.com/profile-thirdparty-redirect/AgEb6aRzYfpXqwAAAZjtQ1Ox-Tdxll3oF3t5c60MVfemADTePO91QxR86NhK3EZSV4yguFQp_jOvriC56TK5K4JxcQONjtljFMDLeAuzJ7bpnNkwvwzR91cdLOktmJ7G"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-[#475569] hover:text-accent transition-colors"
+            >
               LinkedIn
             </a>
-            <a href="mailto:franklinogot11@gmail.com" className="text-sm text-[#475569] hover:text-accent transition-colors">
+            <a
+              href="mailto:franklinogot11@gmail.com"
+              className="text-sm text-[#475569] hover:text-accent transition-colors"
+            >
               Email
             </a>
           </div>
