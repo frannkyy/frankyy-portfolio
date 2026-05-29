@@ -1,14 +1,17 @@
 # Franklin Ogot Portfolio Data
 
 ## Resume Summary
+
 **Name:** Franklin M. Ogot
 **Location:** Philippines (+63 998 224 7695)
 **Email:** franklinogot11@gmail.com
 
 ### Professional Summary
+
 eCommerce & Web Specialist with hands-on experience in WordPress, WooCommerce, and AI-powered product listing workflows. Proven ability to streamline operations using automation tools including building a Python-based scraping system to scale product imports (eBay, Poshmark, Depop) and creating high-converting web and digital assets.
 
 ### Core Skills
+
 - **eCommerce:** Nifty AI, eBay, Poshmark, Depop, WooCommerce
 - **Web Development:** WordPress, Elementor, HTML, CSS, GitHub
 - **Automation:** Python (Scraping & Data Processing), Excel
@@ -16,6 +19,7 @@ eCommerce & Web Specialist with hands-on experience in WordPress, WooCommerce, a
 - **Tools:** ChatGPT, DeepSeek, Manus AI, Mailchimp, Microsoft 365,
 
 ### Professional Experience
+
 1. **IT Specialist / Web Designer – Sheltowee Network, LLC** (Aug 2024 - Present)
    - Manage WordPress websites and build landing pages with Elementor
    - Upload, edit, and optimize products in WooCommerce
@@ -31,13 +35,16 @@ eCommerce & Web Specialist with hands-on experience in WordPress, WooCommerce, a
    - Created marketing graphics and promotional material
 
 ### Project Highlight
+
 **Product Listing Automation System (Python)**
+
 - Built a custom scraper using AI-assisted development (ChatGPT, DeepSeek)
 - Extracts product data from Nifty AI and converts it into structured Excel files
 - Enables fast and scalable product imports into WooCommerce websites
 - Improved workflow efficiency and reduced repetitive manual work
 
 ### Education
+
 Bachelor's Degree – Nueva Ecija University of Science and Technology
 
 ---
@@ -65,6 +72,7 @@ Bachelor's Degree – Nueva Ecija University of Science and Technology
    - Views: 15 | Appreciations: 1
 
 ### Other Projects:
+
 - Restaurant Menus | Photoshop | InDesign
 - YouTube Thumbnails | Photoshop | Canva
 - Sports Creative Design | Adobe Photoshop | Canva
@@ -75,6 +83,7 @@ Bachelor's Degree – Nueva Ecija University of Science and Technology
 - Digital Ingots | Web Design | WordPress + Elementor Pro
 
 ### Behance Profile Stats
+
 - Followers: 8
 - Following: 11
 - Project Views: 111
@@ -85,12 +94,14 @@ Bachelor's Degree – Nueva Ecija University of Science and Technology
 ---
 
 ## Color Palette (User Provided)
+
 - White: #FFFFFF
 - Navy: #0F172A
 - Blue Accent: #2563EB
 - Gray Text: #475569
 
 ## Assets
+
 - Profile Picture: https://i.ibb.co/4ZXw0sL3/unnamed.png
 - Unbridled Eve Hero: https://i.ibb.co/PZb93L0w/chrome-YZBky-Rkf-Sw.jpg
 - Churchill Mae Hero: https://i.ibb.co/cXkFd71P/chrome-db-Pb4ij5a9.png
