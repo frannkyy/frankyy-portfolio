@@ -10,10 +10,10 @@ eCommerce & Web Specialist with hands-on experience in WordPress, WooCommerce, a
 
 ### Core Skills
 - **eCommerce:** Nifty AI, eBay, Poshmark, Depop, WooCommerce
-- **Web Development:** WordPress, Elementor, HTML, CSS
+- **Web Development:** WordPress, Elementor, HTML, CSS, GitHub
 - **Automation:** Python (Scraping & Data Processing), Excel
-- **Design:** Canva, Figma, Adobe Photoshop, Illustrator
-- **Tools:** ChatGPT, DeepSeek, Mailchimp, Microsoft 365
+- **Design:** Canva, Figma, Adobe Photoshop, Adobe Illustrator, Adobe InDesign
+- **Tools:** ChatGPT, DeepSeek, Manus AI, Mailchimp, Microsoft 365,
 
 ### Professional Experience
 1. **IT Specialist / Web Designer – Sheltowee Network, LLC** (Aug 2024 - Present)
