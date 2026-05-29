@@ -83,7 +83,7 @@ export default function Home() {
     },
     {
       category: "Web Development",
-      items: ["WordPress", "Elementor", "HTML", "CSS", "Responsive Design"],
+      items: ["WordPress", "Elementor", "HTML", "CSS", "Responsive Design", "GitHub"],
     },
     {
       category: "Automation",
@@ -91,11 +91,11 @@ export default function Home() {
     },
     {
       category: "Design",
-      items: ["Canva", "Figma", "Adobe Photoshop", "Illustrator"],
+      items: ["Canva", "Figma", "Adobe Photoshop", "Adobe Illustrator", "Adobe InDesign"],
     },
     {
       category: "Tools",
-      items: ["ChatGPT", "DeepSeek", "Mailchimp", "Microsoft 365"],
+      items: ["ChatGPT", "DeepSeek", "Manus AI", "Mailchimp", "Microsoft 365"],
     },
   ];
 
