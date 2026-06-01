@@ -83,7 +83,14 @@ export default function Home() {
     },
     {
       category: "Web Development",
-      items: ["WordPress", "Elementor", "HTML", "CSS", "Responsive Design", "GitHub"],
+      items: [
+        "WordPress",
+        "Elementor",
+        "HTML",
+        "CSS",
+        "Responsive Design",
+        "GitHub",
+      ],
     },
     {
       category: "Automation",
@@ -91,7 +98,13 @@ export default function Home() {
     },
     {
       category: "Design",
-      items: ["Canva", "Figma", "Adobe Photoshop", "Adobe Illustrator", "Adobe InDesign"],
+      items: [
+        "Canva",
+        "Figma",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+      ],
     },
     {
       category: "Tools",
